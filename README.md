@@ -11,7 +11,7 @@
 <p align="center">
 <a href="mailto:shomi125expert@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14815?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/shomi-webdeveloper-80717b162/">
+</a><a href="https://www.linkedin.com/in/muhammad-rustam-ai/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
